@@ -1,1 +1,1 @@
-# Hi, I'm Altan Tutar <img src="https://giphy.com/embed/bTrTnPMPq8UORCrBWG" width="480" height="50" frameBorder="0" class="giphy-embed" allowFullScreen>
+# Hi, I'm Altan Tutar <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">

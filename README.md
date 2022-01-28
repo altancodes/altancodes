@@ -5,3 +5,17 @@
 
 [![Twitter: altutar](https://img.shields.io/twitter/follow/altutar?style=social)](https://twitter.com/altutar)
 [![Linkedin: tutaraltan](https://img.shields.io/badge/-tutaraltan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tutaraltan/)](https://www.linkedin.com/in/tutaraltan/)
+  
+  
+  ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```javascript
+const thai = {
+  location: "London, UK",
+  code: [Python, C#, Java, JavaScript, Scala, HTML, CSS, Solidity, C++],
+  tools: [Unix, React Native, Django, REST APIs, Unity, NodeJS, React, React
+Native, AWS, Bootstrap, D3.js, PyTorch, NumPy, Jupyter Notebooks, Version Control (Git),
+Matplotlib, Remix, Ganache]
+}
+```
+

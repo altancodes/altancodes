@@ -14,6 +14,9 @@ const altan = {
   city: "London",
   country: "United Kingdom",
   code: [Python, C#, Java, JavaScript, Scala, HTML, CSS, Solidity, C++],
+  tools: [Unix, React Native, Django, REST APIs, Unity, NodeJS, React, React Native, AWS, 
+  Bootstrap, D3.js, PyTorch, NumPy, Jupyter Notebooks, Version Control (Git),
+  Matplotlib, Remix, Ganache]
 }
 ```
 
